@@ -1,6 +1,8 @@
 # hotelui
 
 Hotel UI 1
+![image](https://user-images.githubusercontent.com/87460435/200154849-faae1f52-fa4a-4757-8f04-1c6b92cdaf02.png)
+
 
 ## Getting Started
 
